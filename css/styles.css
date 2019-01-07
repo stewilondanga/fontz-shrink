@@ -21,7 +21,6 @@ html, body {
   height: 1.5em;
 }
 
-/*
 input {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
@@ -30,7 +29,7 @@ input {
   height: 35px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
